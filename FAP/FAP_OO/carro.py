@@ -7,3 +7,12 @@ class Carro:
 
     def exibir_infos(self):
         print(f"{self.marca} {self.modelo} {self.ano}")
+
+
+
+def acelerar(self):
+    self.velocidade = self.velocidade + 5
+
+
+def frear(self):
+    self.frear = self.frear + 5
